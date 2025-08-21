@@ -1,1 +1,1 @@
-[![Mathews's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewrtaylor)]
+[![Mathews's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewrtaylor&theme=shades-of-purple)]

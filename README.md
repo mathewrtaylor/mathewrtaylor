@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mathewrtaylor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mathewrtaylor&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
